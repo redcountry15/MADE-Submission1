@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission1-Dicoding-Kotlin</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string-array name="movie_name">
+        <item>Bohemian Rhapsody</item>
+        <item>Preman Pensiun</item>
+        <item>Bumblebee</item>
+        <item>Deadpool</item>
+        <item>Glass</item>
+        <item>A Star is Born</item>
+        <item>Venom</item>
+        <item>Mortal Engine</item>
+        <item>Robin Hood</item>
+        <item>Weathering With You</item>
+    </string-array>
+    <array name="movie_photo">
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_weathering</item>
+    </array>
+    <array name="movie_backdrop">
+        <item>@drawable/backdrop_bohemian</item>
+        <item>@drawable/backdrop_preman</item>
+        <item>@drawable/backdrop_bumblebee</item>
+        <item>@drawable/backdrop_deadpool</item>
+        <item>@drawable/backdrop_glass</item>
+        <item>@drawable/backdrop_astars</item>
+        <item>@drawable/backdrop_venom</item>
+        <item>@drawable/backdrop_mortal</item>
+        <item>@drawable/backdrop_robin</item>
+        <item>@drawable/backdrop_weathering</item>
+    </array>
+    <string-array name="movie_desc">
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon membawa dunia musik dengan badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi instan klasik</item>
+        <item>Setelah tiga tahun, bisnis Muslihat (Epi Kusnandar), yang telah pensiun sebagai preman, memiliki masalah. Penurunan penjualan. Muslihat juga menghadapi masalah baru ketika Safira (Safira Maharani), satu-satunya anak perempuannya, tumbuh di masa remaja dan mulai dikunjungi oleh anak laki-laki. Masalah yang lebih besar: gesekan antara mantan bawahannya.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan mobil VW kuning biasa.</item>
+        <item>Deadpool menceritakan kisah asal-usul mantan anggota Pasukan Khusus yang berubah menjadi tentara bayaran Wade Wilson, yang setelah menjadi sasaran percobaan jahat yang membuatnya memiliki kekuatan penyembuhan yang dipercepat, mengadopsi Deadpool alter ego. Dipersenjatai dengan kemampuan barunya dan selera humornya yang gelap dan berputar-putar, Deadpool memburu pria yang hampir menghancurkan hidupnya.</item>
+        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya.</item>
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karir Allys lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang secara terus-menerus dengan iblis internalnya sendiri.</item>
+        <item>Jurnalis investigasi Eddie Brock mencoba untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri.</item>
+        <item>Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom Natsworthy mengalami pertemuan tak terduga dengan seorang wanita muda misterius dari daerah terlantar yang akan mengubah jalan hidupnya selamanya.</item>
+        <item> Seorang pejuang perang yang keras dan komandan Moornya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+        <item>Hodaka, bocah laki-laki sekolah menengah yang pindah dari rumah pulau terpencilnya ke kota Tokyo, yang segera menjadi bangkrut! Setelah akhirnya menemukan pekerjaan di majalah okultis yang teduh, langit turun hujan setiap hari sampai di tengah hiruk pikuk kota besar, ia bertemu dengan seorang wanita muda bernama Hina. Dia menjalani kehidupan yang ceria dengan adik laki-lakinya, tetapi juga memiliki kekuatan tertentu: untuk menghentikan hujan dan membersihkan langit.</item>
+    </string-array>
+    <string-array name="movie_rating">
+        <item>80</item>
+        <item>65</item>
+        <item>65</item>
+        <item>76</item>
+        <item>66</item>
+        <item>75</item>
+        <item>66</item>
+        <item>60</item>
+        <item>58</item>
+        <item>76</item>
+    </string-array>
+</resources>
